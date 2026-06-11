@@ -163,18 +163,25 @@ const listingSchema = new Schema({
 ## 📸 Screenshots
 
 ### All Listings Page
-(Add Screenshot Here)
+<img width="1900" height="914" alt="home page (1)" src="https://github.com/user-attachments/assets/ab151841-b2a7-471d-b113-e21bb180039e" />
+<img width="1903" height="914" alt="home page (2)" src="https://github.com/user-attachments/assets/6e9e3baf-b9d0-4ef6-9bc5-89961dd9fab0" />
+<img width="1897" height="912" alt="home page (3)" src="https://github.com/user-attachments/assets/e8ac756e-6301-4d38-9d99-00a0c8e0f8e8" />
+<img width="1898" height="909" alt="home page (4)" src="https://github.com/user-attachments/assets/409f9898-bcb9-4d85-8163-a0cde8785c3b" />
+<img width="1897" height="905" alt="home page(5)" src="https://github.com/user-attachments/assets/c4d466b5-cb3b-4801-9d91-56d49a2a62d6" />
+
 
 ### Listing Details Page
-(Add Screenshot Here)
+<img width="1897" height="907" alt="view listing details (1)" src="https://github.com/user-attachments/assets/c825ca52-7d7c-485b-a1d8-bb29f3552000" />
+<img width="1270" height="896" alt="view listing details" src="https://github.com/user-attachments/assets/64091500-cb52-458c-9926-b47aeb4ced2a" />
 
 ### Create Listing Page
-(Add Screenshot Here)
+<img width="1886" height="893" alt="creating new listing" src="https://github.com/user-attachments/assets/9c5ebe04-2de2-4d03-bd22-0142e47bf297" />
 
 ### Edit Listing Page
-(Add Screenshot Here)
+<img width="1885" height="909" alt="edit the listings" src="https://github.com/user-attachments/assets/1ed5821d-8a0c-46c6-adf7-da73ed67c974" />
 
----
+
+
 
 ## 🎯 Learning Outcomes
 
